@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudGridView", "Practices\CrudGridView.csproj", "{C12F6A5F-6254-473C-B747-F319DD92AEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudGridView.Tests", "Practices.Tests\CrudGridView.Tests.csproj", "{F6C78F0D-45E2-4859-9F3D-D9FB96F1CDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12F6A5F-6254-473C-B747-F319DD92AEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12F6A5F-6254-473C-B747-F319DD92AEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12F6A5F-6254-473C-B747-F319DD92AEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12F6A5F-6254-473C-B747-F319DD92AEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C78F0D-45E2-4859-9F3D-D9FB96F1CDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C78F0D-45E2-4859-9F3D-D9FB96F1CDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C78F0D-45E2-4859-9F3D-D9FB96F1CDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C78F0D-45E2-4859-9F3D-D9FB96F1CDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11041D94-1A89-4142-829B-0A845F88AF2B}
+	EndGlobalSection
+EndGlobal
