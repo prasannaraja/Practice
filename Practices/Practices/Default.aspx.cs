@@ -21,6 +21,9 @@ namespace crudGridView_01
             }
         }
 
+        /// <summary>
+        /// load grid data
+        /// </summary>
         public void loadGrid()
         {
             DataTable dtbl = new DataTable();
